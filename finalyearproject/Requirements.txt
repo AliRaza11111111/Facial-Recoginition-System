@@ -1,0 +1,6 @@
+py -m pip install Django
+pip install mysqlclient
+pip install cmake
+pip install wheel
+python -m pip install dlib-19.24.1-cp311-cp311-win_amd64.whl
+pip install face_recognition  
